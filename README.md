@@ -1,5 +1,6 @@
 # MVC-Blog
-Full stack web application developed with Django. Includes SQLite database on back end. 
+Full stack web application powered by Python and the Django framework. Includes SQLite 
+database on back end. 
 
 This web app implements the MVC schema to promote scalablity through the creation of
 dynamic applications and routes. The front end was designed in HTML with CSS bootstraps,
