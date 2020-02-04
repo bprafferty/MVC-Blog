@@ -2,7 +2,7 @@
 Full stack web application powered by Python and the Django framework. Includes SQLite 
 database on back end. 
 
-This web app implements the MVC schema to promote scalablity through the creation of
+This web app implements the MVC schema to promote scalability through the creation of
 dynamic applications and routes. The front end was designed in HTML with CSS bootstraps,
 and repeated code was scaled down by utilizing templates. The data was stored on the back 
 end with a SQLite database, which was fashioned to handle updates and data migrations. An 
